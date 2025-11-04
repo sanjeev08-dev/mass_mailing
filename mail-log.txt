@@ -1,0 +1,31 @@
+[2025-11-04T15:03:44.461Z] ✅ Mail sent successfully to sanjeev081097@gmail.com (Jaypee Institute of Information Technology University - [JIIT])
+[2025-11-04T15:03:55.392Z] ✅ Mail sent successfully to sanjeev.kumar@iafsm.in (Amity School of Engineering & Technology - [ASET])
+[2025-11-04T15:04:05.194Z] ✅ Mail sent successfully to sanjeev.iafsm@gmail.com (Galgotias University - [GU])
+[2025-11-04T15:04:15.918Z] ✅ Mail sent successfully to captain.rogers.cap10@gmail.com (Maharaja Agrasen Institute of Technology - [MAIT])
+[2025-11-04T15:04:26.773Z] ✅ Mail sent successfully to s1@gmail.com (Maharaja Surajmal Institute of Technology - [MSIT])
+[2025-11-04T15:04:31.778Z] 🎉 Mailing completed!
+[2025-11-04T15:11:01.346Z] ✅ Mail sent successfully to sanjeev081097@gmail.com (Jaypee Institute of Information Technology University - [JIIT])
+[2025-11-04T15:11:12.042Z] ✅ Mail sent successfully to sanjeev.kumar@iafsm.in (Amity School of Engineering & Technology - [ASET])
+[2025-11-04T15:11:22.010Z] ✅ Mail sent successfully to sanjeev.iafsm@gmail.com (Galgotias University - [GU])
+[2025-11-04T15:11:32.628Z] ✅ Mail sent successfully to captain.rogers.cap10@gmail.com (Maharaja Agrasen Institute of Technology - [MAIT])
+[2025-11-04T15:11:43.222Z] ✅ Mail sent successfully to s1@gmail.com (Maharaja Surajmal Institute of Technology - [MSIT])
+[2025-11-04T15:11:48.235Z] 🎉 Mailing completed!
+[2025-11-04T15:13:20.444Z] ✅ Mail sent successfully to sanjeev081097@gmail.com (Jaypee Institute of Information Technology University - [JIIT])
+[2025-11-04T15:13:31.727Z] ✅ Mail sent successfully to sanjeev.kumar@iafsm.in (Amity School of Engineering & Technology - [ASET])
+[2025-11-04T15:13:44.359Z] ✅ Mail sent successfully to sanjeev.iafsm@gmail.com (Galgotias University - [GU])
+[2025-11-04T15:13:55.636Z] ✅ Mail sent successfully to captain.rogers.cap10@gmail.com (Maharaja Agrasen Institute of Technology - [MAIT])
+[2025-11-04T15:14:05.608Z] ✅ Mail sent successfully to s1@gmail.com (Maharaja Surajmal Institute of Technology - [MSIT])
+[2025-11-04T15:14:10.622Z] 🎉 Mailing completed!
+[2025-11-04T15:15:57.536Z] ✅ Mail sent successfully to sanjeev081097@gmail.com (Jaypee Institute of Information Technology University - [JIIT])
+[2025-11-04T15:16:08.343Z] ✅ Mail sent successfully to sanjeev.kumar@iafsm.in (Amity School of Engineering & Technology - [ASET])
+[2025-11-04T15:16:19.035Z] ✅ Mail sent successfully to sanjeev.iafsm@gmail.com (Galgotias University - [GU])
+[2025-11-04T15:16:28.973Z] ✅ Mail sent successfully to captain.rogers.cap10@gmail.com (Maharaja Agrasen Institute of Technology - [MAIT])
+[2025-11-04T15:16:38.912Z] ❌ Failed to send mail to s1@gmail.com: Can't send mail - all recipients were rejected: 450 4.7.1 <s1@gmail.com>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ernet.in.
+[2025-11-04T15:16:43.929Z] 🎉 Mailing completed!
+[2025-11-04T15:20:14.301Z] ❌ Failed to send mail to sanjeev081097@gmail.com: Can't send mail - all recipients were rejected: 450 4.7.1 <sanjeev081097@gmail.com>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ernet.in.
+[2025-11-04T15:20:24.164Z] ❌ Failed to send mail to sanjeev.kumar@iafsm.in: Can't send mail - all recipients were rejected: 450 4.7.1 <sanjeev.kumar@iafsm.in>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ernet.in.
+[2025-11-04T15:22:07.015Z] ❌ Failed to send mail to sanjeev081097@gmail.com: Can't send mail - all recipients were rejected: 450 4.7.1 <sanjeev081097@gmail.com>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ac.in.
+[2025-11-04T15:23:18.033Z] ❌ Failed to send mail to info_cmf@admin.iitd.ac.in: Can't send mail - all recipients were rejected: 450 4.7.1 <info_cmf@admin.iitd.ac.in>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ac.in.
+[2025-11-04T15:23:23.043Z] 🎉 Mailing completed!
+[2025-11-04T15:24:37.568Z] ❌ Failed to send mail to rahuls.cstaff@iitd.ac.in: Can't send mail - all recipients were rejected: 450 4.7.1 <rahuls.cstaff@iitd.ac.in>: Recipient address rejected: Policy Rejection- Sending rate too high! Please try later or contact sysadm@cc.iitd.ac.in.
+[2025-11-04T15:24:42.571Z] 🎉 Mailing completed!

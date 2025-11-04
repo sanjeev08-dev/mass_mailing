@@ -1,0 +1,23 @@
+{
+  "name": "mass-mailing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.10.0",
+    "nodemailer": "^7.0.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^7.0.3"
+  }
+}
